@@ -4,5 +4,4 @@
 
 ## adding to the same line to cause conflict
 
-####Every little thing, is gonna be alright (line 11 change)
->>>>>>> 6aa2b949197933527b819019db38e619360ca8bb
+#### now it is on line 7 since I fixed the other conflict location, don't know if this will conflict
